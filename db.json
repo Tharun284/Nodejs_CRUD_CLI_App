@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c4fa0540-516a-4b34-bd08-4dc72a53a5c1",
+    "Name": "Tharun",
+    "Phone": 123,
+    "Age": "Adult"
+  },
+  {
+    "id": "29e1e6db-1361-4e39-95c5-b57d9b1f39c2",
+    "Name": "Samson",
+    "Phone": 321,
+    "Age": "Adult"
+  },
+  {
+    "id": "d7bd4c2a-0f80-47b5-8c12-7e3c27474abf",
+    "Name": "Ebere",
+    "Phone": 794,
+    "Age": "Minor"
+  }
+]
